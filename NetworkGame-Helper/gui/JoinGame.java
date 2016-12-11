@@ -18,8 +18,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 
 public class JoinGame extends JDialog
 {
-	private static final long serialVersionUID = -1L; // More explicit than suppressing the warning
-	
 	private JTextField txfName;
 	private JTextField txfIP;
 	private JTextField txfPort;
